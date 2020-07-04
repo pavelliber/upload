@@ -1,0 +1,25 @@
+.map-screen {
+    width: 375px;
+    height: 812px;
+    background: url("/img/step1@2x.png") no-repeat top left;
+    background-size: 375px 812px;
+}
+
+.map-screen button {
+    width: 150px;
+    height: 40px;
+    border: #6C65F5 1px solid;
+    color: #6C65F5;
+    position: relative;
+    left: 115px;
+    top: 718px;
+}
+
+.map-temp {
+    font-family: "Source Sans Pro", serif;
+    font-size: 12px;
+    position: relative;
+    left: 150px;
+    top: 400px;
+}
+

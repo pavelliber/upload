@@ -1,0 +1,24 @@
+.map-booked {
+    width: 375px;
+    height: 812px;
+    background: url("/img/step2@2x.png") no-repeat top left;
+    background-size: 375px 812px;
+}
+
+.map-booked-buttons {
+    display: flex;
+    padding-left: 25px;
+    padding-right: 25px;
+    width: 375px;
+    position: relative;
+    top: 518px;
+}
+
+.map-booked-buttons button {
+    width: 100px;
+    height: 85px;
+    border: #6C65F5 1px solid;
+    color: #6C65F5;
+}
+
+
